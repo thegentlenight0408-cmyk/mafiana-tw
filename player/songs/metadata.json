@@ -4784,5 +4784,155 @@
     "duration": 198.36,
     "filename": "312_Snowline_Cadence_v2.mp3",
     "scene": "cold winter high-altitude run / crisp air"
+  },
+  "4a327d5c-67a7-444b-8b88-4d2036b1fe26": {
+    "order": 313,
+    "title": "REFACTOR RAIN FALL",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, gentle rain pad, cleansing filter sweep, drop-tail synth resolve",
+    "lyrics_excerpt": "Refactor rain fall, refactor rain fall",
+    "suno_bpm": 126,
+    "aubio_bpm": 128.24,
+    "beat_count_bpm": 124.22,
+    "duration": 229.92,
+    "filename": "313_Refactor_Rain_Fall_v1.mp3",
+    "scene": "cleaning up legacy code / gentle refactor flow"
+  },
+  "e324f81a-15ba-4190-b982-7b0335d37892": {
+    "order": 314,
+    "title": "REFACTOR RAIN FALL",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, gentle rain pad, cleansing filter sweep, drop-tail synth resolve",
+    "lyrics_excerpt": "Refactor rain fall, refactor rain fall",
+    "suno_bpm": 126,
+    "aubio_bpm": 127.42,
+    "beat_count_bpm": 125.0,
+    "duration": 233.76,
+    "filename": "314_Refactor_Rain_Fall_v2.mp3",
+    "scene": "cleaning up legacy code / gentle refactor flow"
+  },
+  "9f2d9785-fa05-4ec0-900f-3043031d4ca5": {
+    "order": 315,
+    "title": "TEST GREEN WAVE",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, bright pluck arpeggio, ascending build, green-light chord stab",
+    "lyrics_excerpt": "Test green wave, test green wave",
+    "suno_bpm": 126,
+    "aubio_bpm": 125.86,
+    "beat_count_bpm": 122.29,
+    "duration": 245.32,
+    "filename": "315_Test_Green_Wave_v1.mp3",
+    "scene": "passing test suite / green bar satisfaction"
+  },
+  "1ae2903f-256f-4d8c-aa3f-ef1f9d94cc01": {
+    "order": 316,
+    "title": "TEST GREEN WAVE",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, bright pluck arpeggio, ascending build, green-light chord stab",
+    "lyrics_excerpt": "Test green wave, test green wave",
+    "suno_bpm": 126,
+    "aubio_bpm": 125.34,
+    "beat_count_bpm": 122.27,
+    "duration": 263.52,
+    "filename": "316_Test_Green_Wave_v2.mp3",
+    "scene": "passing test suite / green bar satisfaction"
+  },
+  "3e0234c6-a5ca-4c67-acf4-97824eff54ab": {
+    "order": 317,
+    "title": "MERGE BRANCH HOME",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, warm homecoming pad, resolving chord progression, mid-tempo satisfaction",
+    "lyrics_excerpt": "Merge branch home, merge branch home",
+    "suno_bpm": 126,
+    "aubio_bpm": 131.84,
+    "beat_count_bpm": 127.62,
+    "duration": 244.0,
+    "filename": "317_Merge_Branch_Home_v1.mp3",
+    "scene": "merging feature branch back to main / integration satisfaction"
+  },
+  "7a35f667-4a07-4b9d-b9bf-95c6a865177c": {
+    "order": 318,
+    "title": "MERGE BRANCH HOME",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, warm homecoming pad, resolving chord progression, mid-tempo satisfaction",
+    "lyrics_excerpt": "Merge branch home, merge branch home",
+    "suno_bpm": 126,
+    "aubio_bpm": 125.8,
+    "beat_count_bpm": 123.08,
+    "duration": 287.12,
+    "filename": "318_Merge_Branch_Home_v2.mp3",
+    "scene": "merging feature branch back to main / integration satisfaction"
+  },
+  "ae9475de-b5a1-4df8-a974-363d11c47df9": {
+    "order": 319,
+    "title": "DEBUG DEEP DIVE",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, curious pluck motif, sustained tension resolve, layered clue synth",
+    "lyrics_excerpt": "Debug deep dive, debug deep dive",
+    "suno_bpm": 126,
+    "aubio_bpm": 127.84,
+    "beat_count_bpm": 125.42,
+    "duration": 373.16,
+    "filename": "319_Debug_Deep_Dive_v1.mp3",
+    "scene": "methodically hunting a bug / patient investigation"
+  },
+  "ec8fd06d-7d3c-4b43-bd66-98b77d60ec0e": {
+    "order": 320,
+    "title": "DEBUG DEEP DIVE",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, curious pluck motif, sustained tension resolve, layered clue synth",
+    "lyrics_excerpt": "Debug deep dive, debug deep dive",
+    "suno_bpm": 126,
+    "aubio_bpm": 130.6,
+    "beat_count_bpm": 126.42,
+    "duration": 289.04,
+    "filename": "320_Debug_Deep_Dive_v2.mp3",
+    "scene": "methodically hunting a bug / patient investigation"
+  },
+  "67463a8d-e446-4f76-bbef-079ed04b1265": {
+    "order": 321,
+    "title": "NOTES PILE SORT",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, tidy pluck pattern, sorting shaker rhythm, orderly warm pad",
+    "lyrics_excerpt": "Notes pile sort, notes pile sort",
+    "suno_bpm": 126,
+    "aubio_bpm": 125.64,
+    "beat_count_bpm": 123.2,
+    "duration": 260.56,
+    "filename": "321_Notes_Pile_Sort_v1.mp3",
+    "scene": "organizing scattered notes and todos / tidy mind"
+  },
+  "5c2bfd57-da47-4a94-809b-d45ec5fe8ad8": {
+    "order": 322,
+    "title": "NOTES PILE SORT",
+    "playlists": [
+      "工作"
+    ],
+    "style_tags": "progressive house, 126 BPM, euphoric uplifting, smooth four-on-the-floor kick, rolling bassline, atmospheric pads, sparkling synth arpeggios, warm melodic build-ups, clean female vocal, focus flow productivity, modern Anjunabeats sound, no break, no silent section, tidy pluck pattern, sorting shaker rhythm, orderly warm pad",
+    "lyrics_excerpt": "Notes pile sort, notes pile sort",
+    "suno_bpm": 126,
+    "aubio_bpm": 129.12,
+    "beat_count_bpm": 126.22,
+    "duration": 221.04,
+    "filename": "322_Notes_Pile_Sort_v2.mp3",
+    "scene": "organizing scattered notes and todos / tidy mind"
   }
 }
